@@ -1,3 +1,0 @@
-URL Front End = https://clustering-customer-hacktive8.herokuapp.com
-URL Back End = https://model-backend-wahyudisujono.herokuapp.com/cluster_customer
-URL Data set = https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
