@@ -1,2 +1,0 @@
-front end = https://auto-classification-wahyudi.herokuapp.com/
-backend = 'https://tf-serving-wahyudi.herokuapp.com/v1/models/churn:predict
